@@ -1,0 +1,14 @@
+body {
+background-color: lightpink;
+}
+
+img {
+height: 300px;
+width: 300px;
+border: 2px solid white;
+}
+
+.p {
+font-family: "Lucinda Console", "Courier New", monospace;
+}
+
